@@ -1,6 +1,6 @@
 # JSON Viewer
 
-A beautiful and interactive JSON viewer built with Next.js, similar to jsonblob.com.
+A beautiful and interactive JSON viewer built with Next.js, similar to jsonblob.
 
 ## Features
 
